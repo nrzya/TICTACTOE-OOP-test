@@ -2,7 +2,7 @@ import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
 /**
- * Tic-Tac-Toe: Two-player Graphics version with Simple-OO in one class .
+ * Tic-Tac-Toe: Two-player Graphics version with Simple-OO in one class .'
  */
 public class TTTGraphics extends JFrame {
     private static final long serialVersionUID = 1L; // to prevent serializable warning
